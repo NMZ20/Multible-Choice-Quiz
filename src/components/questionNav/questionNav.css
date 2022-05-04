@@ -1,0 +1,43 @@
+.qNav-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-self: flex-end;
+    position: absolute;
+    bottom: 120px;
+    margin: 10px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 35px;
+    margin: 5px;
+    border: 2px solid var(--secondary);
+    border-radius: 10px;
+    color: var(--secondary);
+    font-size: 20px;
+    transition: all 0.5s;
+}
+
+.answered{
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+.current{
+    background-color: var(--primary);
+    color: var(--pink);
+    border-color: var(--pink);
+}
+
+@media only screen and (max-width: 900px) {
+    .qNav-container {
+        position: relative;
+        top: 10px;
+        bottom: 0px;
+    }
+}
