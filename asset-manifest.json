@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multible-Choice-Quiz/static/css/main.668db7bd.css",
+    "main.js": "/Multible-Choice-Quiz/static/js/main.3799c447.js",
+    "static/js/787.6dd080e9.chunk.js": "/Multible-Choice-Quiz/static/js/787.6dd080e9.chunk.js",
+    "index.html": "/Multible-Choice-Quiz/index.html",
+    "main.668db7bd.css.map": "/Multible-Choice-Quiz/static/css/main.668db7bd.css.map",
+    "main.3799c447.js.map": "/Multible-Choice-Quiz/static/js/main.3799c447.js.map",
+    "787.6dd080e9.chunk.js.map": "/Multible-Choice-Quiz/static/js/787.6dd080e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668db7bd.css",
+    "static/js/main.3799c447.js"
+  ]
+}
